@@ -1,0 +1,5 @@
+
+*.pyc
+/bash_virtual_env_dagster.egg-info
+/tmp05lxby3c
+/tmpufgcdp5o
